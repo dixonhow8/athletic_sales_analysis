@@ -1,6 +1,6 @@
 # athletic_sales_analysis 
 
-This repository contains code for analyzing athletic sales data from 2020 and 2021, as part of the Module 5 challenge.
+This repository contains code for analyzing Women's Athletic sales data from 2020 and 2021, as part of the Module 5 challenge.
 
 ## Overview
 
